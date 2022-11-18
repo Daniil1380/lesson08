@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class WhileSecondCycle {
     public static void main(String[] args) throws InterruptedException {
@@ -54,6 +53,9 @@ public class WhileSecondCycle {
                 System.out.println("b=" + b);
             }
         }
+
+        //Написать такие числа на экран 2, 4, 6, 8 .... 996, 998, 1000
+        //Написать на экране все числа от 0 до 1000, которые кончаются на 7: 7, 17, 27
 
         //20-40 встречаемся
 
